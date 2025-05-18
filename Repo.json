@@ -1,1 +1,26 @@
-
+[
+  {
+    "Author": "Pistachio Herald",
+    "Name": "Texas Hold'em Helper'",
+    "Punchline": "Play poker in game chat.",
+    "Description": "Use /holdem to open the window.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "texas",
+      "hold'em",
+      "chat",
+      "game",
+      "cards",
+      "gambling",
+      "venue",
+      "party",
+      "gil",
+      "ace"
+    ],
+    "TestingDalamudApiLevel": 12,
+    "TestingAssemblyVersion": "0.14.0.6",
+    "TestingChangelog": "",
+    "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.6_testing/latest.zip",
+    "LastUpdate": 1747590178
+  }
+]
