@@ -22,10 +22,11 @@
     "TestingChangelog": "",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.5_testing/latest.zip",
     "DalamudApiLevel": 12,
-    "AssemblyVersion": "0.14.0.6",
+    "AssemblyVersion": "0.14.0.9",
     "Changelog": "",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.6_release/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.6_release/latest.zip",
-    "LastUpdate": 1747590640
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.9_release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.9_release/latest.zip",
+    "LastUpdate": 1747733042,
+    "InternalName": "HoldemHelper"
   }
 ]
