@@ -21,12 +21,12 @@
     "AssemblyVersion": "0.17.1.0",
     "Changelog": "- 7.3 Update",
     "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.17.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.17.1.0/latest.zipp",
-    "TestingDalamudApiLevel": 12,
-    "TestingAssemblyVersion": "0.17.0.1",
-    "TestingChangelog": "-Now, when the croupier is in game, every line the plugin writes starts with a watermark to avoid it interpreting it as an autoplay command.",
-    "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.0.1_testing/HoldemHelper.zip",
-    "LastUpdate": 1754132515,
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.17.1.0/latest.zip",
+    "TestingDalamudApiLevel": 13,
+    "TestingAssemblyVersion": "0.17.1.1",
+    "TestingChangelog": "Pipeline fix",
+    "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.1.1_testing/HoldemHelper.zip",
+    "LastUpdate": 1754816096,
     "InternalName": "HoldemHelper"
   }
 ]
