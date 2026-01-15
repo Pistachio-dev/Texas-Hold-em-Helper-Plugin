@@ -22,11 +22,11 @@
     "TestingChangelog": "Fixed /tells not working when croupier is on the table",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.1.2_testing/HoldemHelper.zip",
     "DalamudApiLevel": 14,
-    "AssemblyVersion": "0.17.3.2",
+    "AssemblyVersion": "0.17.3.3",
     "Changelog": "- Fixed player references getting reset more than necessary.",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.3.2_release/HoldemHelper.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.3.2_release/HoldemHelper.zip",
-    "LastUpdate": 1768472970,
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.3.3_release/HoldemHelper.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.3.3_release/HoldemHelper.zip",
+    "LastUpdate": 1768475741,
     "InternalName": "HoldemHelper"
   }
 ]
